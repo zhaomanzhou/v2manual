@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e74cdd2-cfe9-47ff-ab32-3510aaab4686" name="Default Changelist" comment="" />
+    <list default="true" id="3e74cdd2-cfe9-47ff-ab32-3510aaab4686" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +29,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assert/file" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assert/android" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assert/android" />
       <recent name="$PROJECT_DIR$/assert/file" />
     </key>
   </component>
@@ -47,6 +50,7 @@
       <workItem from="1608956710076" duration="1067000" />
       <workItem from="1616420284027" duration="3418000" />
       <workItem from="1616495971626" duration="300000" />
+      <workItem from="1616568786716" duration="377000" />
     </task>
     <servers />
   </component>
